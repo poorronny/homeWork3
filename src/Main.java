@@ -96,18 +96,7 @@ public class Main {
             System.out.println("Такого сезона нет в нашей цивилизации xD");
 
           }
-
-
-
-
-
-
-
-
       }
-
-
-
 }
 
 
